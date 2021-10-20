@@ -1,1 +1,1 @@
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=hyperskys&count_private=true&show_icons=true&theme=dark)](https://hyperskys.net/)
+![GitHub metrics](https://metrics.lecoq.io/HyperSkys?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles)

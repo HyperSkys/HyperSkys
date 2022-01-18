@@ -1,4 +1,4 @@
-# Hello, I'm HyperSkys <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/coin.gif width="29px">
+# Hello, I'm HyperSkys <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif width="29px">
 ### 🧑 About Me:
 
 I am currently 18 years old, I am attending high school as a senior. I am fluent in `Java` and have been for over 5 years I also have over 2 years of experience in System Administration and Server Development. I currently live in Denver which is located in the state of Colorado and have been for my entire life I am planning to move to California to presure my colleage education at Stanford!

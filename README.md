@@ -19,11 +19,11 @@ I am currently 18 years old, I am attending high school as a senior. I am fluent
 - Twitter: @HyperSkysMC (Banned)
 - Telegram: HyperSkys
 ---
-### 🤷‍♂️ My Github Statistics
+### 📈 My Github Statistics
 [![HyperSkys GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperskys&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Current and Past Experience
+### 👽 Current and Past Experience
 - 🐼 PandaCraft - A Minecraft Survival Server & Skyblock Server [2000+ Discord Players, 50+ Players]
 - 🛬 LandStealSMP - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]
 - 🧽 Absence Network - A minigame network with many gamemodes that is still under development [200+ Players]

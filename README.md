@@ -15,9 +15,19 @@ I am currently 18 years old, I am attending high school as a senior. I am fluent
 - Discord Bot Development
 ---
 ### 📨 Methods of Contact
+
 - Discord: McDonald's#0001
-- Twitter: @HyperSkysMC (Banned)
 - Telegram: HyperSkys
+
+---
+### 📞 Social Media
+
+Twitter: https://twitter.com/HyperSkysMC                                                                                                         
+Youtube: https://www.youtube.com/channel/UCUW7jV8cMWfAIG9WGovxE5g                                                                                                         
+Twitch: https://www.twitch.tv/hyperskysdev                                                                      
+Reddit: https://www.reddit.com/user/HyperSkysMC                                   
+Github: https://github.com/HyperSkys                                
+
 ---
 ### 📈 My Github Statistics
 [![HyperSkys GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperskys&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

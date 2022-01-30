@@ -5,22 +5,22 @@ I am currently 18 years old, I am attending high school as a senior. I am fluent
 
 ---
 ### 🎳 My Skills
-- Java Development
-- NMS Experience and advanced knowledge of packets
-- ProtocolLib Experience
-- PlaceholderAPI Experience
-- BukkitAPI Experience
-- MongoDB & Redis Experience
-- MySQL & SQLite Experience
-- Discord Bot Development
+Java Development
+NMS Experience and advanced knowledge of packets
+ProtocolLib Experience
+PlaceholderAPI Experience
+BukkitAPI Experience
+MongoDB & Redis Experience
+MySQL & SQLite Experience
+Discord Bot Development
 ---
-### 🎮 Methods of Contact
+### 📱 Methods of Contact
 
-- Discord: McDonald's#0001
-- Telegram: HyperSkys
+Discord: McDonald's#0001
+Telegram: HyperSkys
 
 ---
-### 🎙️ Social Media
+### 💻 Social Media
 
 Twitter: https://twitter.com/HyperSkysMC                                                                                                         
 Youtube: https://www.youtube.com/channel/UCUW7jV8cMWfAIG9WGovxE5g                                                                                                         
@@ -34,8 +34,8 @@ Github: https://github.com/HyperSkys
 
 ---
 ### 💣 Current and Past Experience
-- 🐼 PandaCraft - A Minecraft Survival Server & Skyblock Server [2000+ Discord Players, 50+ Players]
-- 🛬 LandStealSMP - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]
-- 🧽 Absence Network - A minigame network with many gamemodes that is still under development [200+ Players]
-- 🎉 CMT Network - An event server where content creators compete for a prize [3000+ Players]
-- ☁️ HyperSkys Network - A minigame network with many PvP based gamemodes [350+ Players]
+🐼 PandaCraft - A Minecraft Survival Server & Skyblock Server [2000+ Discord Players, 50+ Players]
+🥷 LandStealSMP - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]
+🧽 Absence Network - A minigame network with many gamemodes that is still under development [200+ Players]
+🎉 CMT Network - An event server where content creators compete for a prize [3000+ Players]
+☁️ HyperSkys Network - A minigame network with many PvP based gamemodes [350+ Players]

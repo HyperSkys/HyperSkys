@@ -5,14 +5,16 @@ I am currently 18 years old, I am attending high school as a senior. I am fluent
 
 ---
 ### 🎳 My Skills
-Java Development
-NMS Experience and advanced knowledge of packets
-ProtocolLib Experience
-PlaceholderAPI Experience
-BukkitAPI Experience
-MongoDB & Redis Experience
-MySQL & SQLite Experience
-Discord Bot Development
+
+Java Development                                                                                            
+NMS Experience and advanced knowledge of packets                                                                                            
+ProtocolLib Experience                                                                                            
+PlaceholderAPI Experience                                                                                            
+BukkitAPI Experience                                                                                            
+MongoDB & Redis Experience                                                                                            
+MySQL & SQLite Experience                                                                                            
+Discord Bot Development                                                                                            
+
 ---
 ### 📱 Methods of Contact
 
@@ -22,7 +24,7 @@ Telegram: HyperSkys
 ---
 ### 💻 Social Media
 
-Twitter: https://twitter.com/HyperSkysMC                                                                                                         
+Twitter: https://twitter.com/HyperSkysMC                                                                                            
 Youtube: https://www.youtube.com/channel/UCUW7jV8cMWfAIG9WGovxE5g                                                                                                         
 Twitch: https://www.twitch.tv/hyperskysdev                                                                      
 Reddit: https://www.reddit.com/user/HyperSkysMC                                   

@@ -1,10 +1,10 @@
 # Hello, I'm HyperSkys <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
-### 🧑 About Me:
+### 💪 About Me:
 
 I am currently 18 years old, I am attending high school as a senior. I am fluent in `Java` and have been for over 5 years I also have over 2 years of experience in System Administration and Server Development. I currently live in Denver which is located in the state of Colorado and have been for my entire life I am planning to move to California to presure my colleage education at Stanford!
 
 ---
-### 🤹 My Skills
+### 🎳 My Skills
 - Java Development
 - NMS Experience and advanced knowledge of packets
 - ProtocolLib Experience
@@ -14,13 +14,13 @@ I am currently 18 years old, I am attending high school as a senior. I am fluent
 - MySQL & SQLite Experience
 - Discord Bot Development
 ---
-### 📨 Methods of Contact
+### 🎮 Methods of Contact
 
 - Discord: McDonald's#0001
 - Telegram: HyperSkys
 
 ---
-### 📞 Social Media
+### 🎙️ Social Media
 
 Twitter: https://twitter.com/HyperSkysMC                                                                                                         
 Youtube: https://www.youtube.com/channel/UCUW7jV8cMWfAIG9WGovxE5g                                                                                                         

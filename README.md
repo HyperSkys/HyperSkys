@@ -18,8 +18,8 @@ Discord Bot Development
 ---
 ### 📱 Methods of Contact
 
-Discord: McDonald's#0001
-Telegram: HyperSkys
+Discord: McDonald's#0001                                                                                            
+Telegram: HyperSkys                                                                                            
 
 ---
 ### 💻 Social Media

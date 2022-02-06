@@ -1,34 +1,39 @@
 # Hello, I'm HyperSkys <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
 ### 💪 About Me:
 
-I am currently 18 years old, I am attending high school as a senior. I am fluent in `Java` and have been for over 5 years I also have over 2 years of experience in System Administration and Server Development. I currently live in Denver which is located in the state of Colorado and have been for my entire life I am planning to move to California to presure my colleage education at Stanford!
+🔞 18 Years Old                                                            
+📘 Attending Highschool (Senior)                                                            
+🏮 Fluent in Java (5yr)                                                            
+🖥️ System Administration (2yr)                                                            
+📌 Denver, CO                                                            
+🎓 Presuing education at Stanford                                                            
 
 ---
 ### 🎳 My Skills
 
-Java Development                                                                                            
-NMS Experience and advanced knowledge of packets                                                                                            
-ProtocolLib Experience                                                                                            
-PlaceholderAPI Experience                                                                                            
-BukkitAPI Experience                                                                                            
-MongoDB & Redis Experience                                                                                            
-MySQL & SQLite Experience                                                                                            
-Discord Bot Development                                                                                            
+🦷 Java Development                                                                                            
+🐵 NMS Experience and advanced knowledge of packets                                                                                            
+🪧 ProtocolLib Experience                                                                                            
+🕳️ PlaceholderAPI Experience                                                                                            
+🗑️ BukkitAPI Experience                                                                                            
+📅 MongoDB & Redis Experience                                                                                            
+🚯 MySQL & SQLite Experience                                                                                            
+🍼 Discord Bot Development                                                                                            
 
 ---
 ### 📱 Methods of Contact
 
-Discord: McDonald's#0001                                                                                            
-Telegram: HyperSkys                                                                                            
+🌽 Discord: McDonald's#0001                                                                                            
+🔭 Telegram: HyperSkys                                                                                            
 
 ---
 ### 💻 Social Media
 
-Twitter: https://twitter.com/HyperSkysMC                                                                                            
-Youtube: https://www.youtube.com/channel/UCUW7jV8cMWfAIG9WGovxE5g                                                                                                         
-Twitch: https://www.twitch.tv/hyperskysdev                                                                      
-Reddit: https://www.reddit.com/user/HyperSkysMC                                   
-Github: https://github.com/HyperSkys                                
+🕊️ Twitter: https://twitter.com/HyperSkysMC                                                                                            
+🎥 Youtube: https://www.youtube.com/channel/UCUW7jV8cMWfAIG9WGovxE5g                                                                                                         
+✌️ Twitch: https://www.twitch.tv/hyperskysdev                                                                      
+🍒 Reddit: https://www.reddit.com/user/HyperSkysMC                                   
+🦑 Github: https://github.com/HyperSkys                                
 
 ---
 ### 🌟 My Github Statistics

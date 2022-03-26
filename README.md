@@ -6,7 +6,7 @@
 🏮 Fluent in Java (5yr)                                                            
 🖥️ System Administration (2yr)                                                            
 📌 Denver, CO                                                            
-🎓 Presuing education at Stanford                                                            
+🎓 Pursuing education at Stanford                                                            
 
 ---
 ### 🎳 My Skills

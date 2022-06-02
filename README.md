@@ -1,4 +1,4 @@
-# Hello, I'm HyperSkys <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px">
+# Hello, I'm HyperSkys <img src=https://raw.githubusercontent.com/HyperSkys/HyperSkys/main/assets/hi.gif width="29px" height="29px">
 ### 💪 About Me:
 
 🔞 18 Years Old                                                            

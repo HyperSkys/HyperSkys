@@ -4,7 +4,7 @@
 ### 💪 About Me:
 
 🔞 18 Years Old                                                            
-📘 Heading to University (Freshman)                                                            
+📘 Stanford University (Freshman)                                                          
 🏮 Fluent in Java (5yr)                                                            
 🖥️ System Administration (2yr)                                                            
 📌 Denver, CO                                                            

@@ -43,4 +43,5 @@
 🥷 LandStealSMP - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]                                                              
 🧽 Absence Network - A minigame network with many gamemodes that is still under development [200+ Players]                                                              
 🎉 CMT Network - An event server where content creators compete for a prize [3000+ Players]                                                              
-☁️ HyperSkys Network - A minigame network with many PvP based gamemodes [350+ Players]    
+☁️ HyperSkys Network - A minigame network with many PvP based gamemodes [350+ Players]  
+📱 Verizon - A mobile phone company

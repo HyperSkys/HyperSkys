@@ -25,7 +25,7 @@
 ---
 ### 📱 Methods of Contact
 
-🌽 Discord: McDonald's#0001                                                                                            
+🌽 Discord: mcdonalds._                                                                                           
 🔭 Telegram: HyperSkys                                                                                            
 
 ---

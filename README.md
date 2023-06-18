@@ -4,11 +4,10 @@
 ### 💪 About Me:
 
 💳 19 Years Old                                                         
-📘 Attending Highschool (Senior)                                                            
+🎓 Stanford University (Sophomore)                                                                 
 🏮 Fluent in Java (5yr)                                                            
 🖥️ System Administration (2yr)                                                            
-📌 Denver, CO                                                            
-🎓 Pursuing education at Stanford                                                            
+📌 Denver, CO                                                                                                                 
 
 ---
 ### 🎳 My Skills

@@ -37,13 +37,10 @@
 🦑 Github: https://github.com/HyperSkys                                
 
 ---
-### 💣 Current and Past Experience
-🐼 PandaCraft - A Minecraft Survival Server & Skyblock Server [2000+ Discord Players, 50+ Players]                                                              
-🥷 LandStealSMP - An SMP which is based around the ideas of the LifeSteal SMP but has a few twists [8 Members]                                                              
-🧽 Absence Network - A minigame network with many gamemodes that is still under development [200+ Players]                                                              
-🎉 CMT Network - An event server where content creators compete for a prize [3000+ Players]                                                              
-☁️ HyperSkys Network - A minigame network with many PvP based gamemodes [350+ Players]  
-📱 Verizon - A mobile phone company
+### 💣 Current and Past Experience                                                          
+🎉 CMT Network - An event server where content creators compete for a prize. [3000+ Players]                                                              
+☁️ HyperSkys Network - A minigame network with many PvP based gamemodes. [350+ Players]  
+📱 Verizon - A mobile phone company. [143 Million Subscribers]
 
 ---
 ### Languages
@@ -55,6 +52,7 @@
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
       <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />     
    </td>
   </tr>
   <tr>

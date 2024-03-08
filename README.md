@@ -1,14 +1,27 @@
 [comment]: <> (Credit to HyperSkys for making this.)
 
-# HyperSkys
+#
 
+### Contact Information
 
-Telegram: HyperSkys <br />
-Discord: .hyperskys (1214143311879737408) <br />
+Discord: .hyperskys <br />
+Telegram: hyperskys <br />
+Email: hyperskydev@proton.me <br />
 
-[![HyperSkys's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperskys&show_icons=true&theme=dark)](https://github.com/HyperSkys)
+#
 
-### Languages
+<br />
+
+<div align="center">
+  <p>
+    <!-- credits: vast -->
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=hyperskys&show_icons=true&theme=dark&hide_border=true" alt="Profile Views"/>
+      <img height="200" src="https://github-readme-stats-vyhs.vercel.app/api/top-langs?username=HyperSkys&layout=compact&theme=dark&hide_border=true" alt="Profile Views"/>
+    </div>
+  </p>
+</div>
+
 <table style="width:100%">
  <tr>
     <th>Programming Languages</th>

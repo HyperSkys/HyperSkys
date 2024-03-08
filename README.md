@@ -16,8 +16,8 @@ Email: hyperskydev@proton.me <br />
   <p>
     <!-- credits: vast -->
     <div style="display: flex; justify-content: center; align-items: center;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=hyperskys&show_icons=true&theme=dark&hide_border=true" alt="Profile Views"/>
-      <img height="170" src="https://github-readme-stats-vyhs.vercel.app/api/top-langs?username=HyperSkys&layout=compact&theme=dark&hide_border=true" alt="Profile Views"/>
+      <img height="100" src="https://github-readme-stats.vercel.app/api?username=hyperskys&show_icons=true&theme=dark&hide_border=true" alt="Profile Views"/>
+      <img height="100" src="https://github-readme-stats-vyhs.vercel.app/api/top-langs?username=HyperSkys&layout=compact&theme=dark&hide_border=true" alt="Profile Views"/>
     </div>
   </p>
 </div>

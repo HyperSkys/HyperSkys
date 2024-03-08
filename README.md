@@ -4,7 +4,7 @@
 
 
 Telegram: HyperSkys <br />
-Discord: devhyperskys <br />
+Discord: .hyperskys (1214143311879737408) <br />
 
 [![HyperSkys's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperskys&show_icons=true&theme=dark)](https://github.com/HyperSkys)
 

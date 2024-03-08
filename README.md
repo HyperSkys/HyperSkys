@@ -6,7 +6,7 @@
 Telegram: HyperSkys <br />
 Discord: devhyperskys <br />
 
-[![HyperSkys's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperskys)](https://github.com/HyperSkys)
+[![HyperSkys's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperskys&show_icons=true&theme=dark)](https://github.com/HyperSkys)
 
 ### Languages
 <table style="width:100%">

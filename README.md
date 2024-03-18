@@ -12,16 +12,6 @@ Email: hyperskydev@proton.me <br />
 
 <br />
 
-<div align="center">
-  <p>
-    <!-- credits: vast -->
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img height="160" src="https://vercel-app-git-main-hyperskys-projects.vercel.app/api?username=HyperSkys&show_icons=true&theme=dark&hide_border=true&hide=contribs,prs"/>
-      <img height="160" src="https://vercel-app-git-main-hyperskys-projects.vercel.app/api/top-langs?username=hyperSkys&layout=compact&theme=dark&hide_border=true"/>
-    </div>
-  </p>
-</div>
-
 <table style="width:100%">
  <tr>
     <th>Programming Languages</th>

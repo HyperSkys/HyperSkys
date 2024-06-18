@@ -4,7 +4,8 @@
 
 ### Contact Information
 
-Telegram: hyperskys <br />
+Telegram: https://t.me/HyperSkys <br />
+Telegram Channel: https://t.me/hyperskysdev <br />
 Website: https://www.hyperskys.dev/ <br />
 
 #

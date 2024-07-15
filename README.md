@@ -1,6 +1,6 @@
 [comment]: <> (Credit to HyperSkys for making this.)
 
-#
+---
 
 ### Contact Information
 
@@ -8,7 +8,7 @@ Telegram: https://t.me/HyperSkys <br />
 Telegram Channel: https://t.me/hyperskysdev <br />
 Website: https://www.hyperskys.dev/ <br />
 
-#
+---
 
 <br />
 
@@ -33,7 +33,8 @@ Website: https://www.hyperskys.dev/ <br />
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" />
-      <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D" />
+      <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=white" />
+      <img src="https://img.shields.io/badge/vercel-%23123F6D.svg?style=for-the-badge&logo=vercel&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -58,6 +59,5 @@ Website: https://www.hyperskys.dev/ <br />
     <td>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
     </td>
   </tr>

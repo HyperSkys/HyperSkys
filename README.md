@@ -6,8 +6,9 @@
 
 Telegram: https://t.me/HyperSkys <br />
 Telegram Channel: https://t.me/hyperskysdev <br />
-Discord: hyperskys.dev <br />
 Website: https://www.hyperskys.dev/ <br />
+Email: hyperskys@hyperskys.dev <br />
+Discord: hyperskys.dev <br />
 
 ---
 
